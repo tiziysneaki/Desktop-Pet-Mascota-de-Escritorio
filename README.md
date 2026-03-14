@@ -1,6 +1,7 @@
 # Desktop-Pet-Mascota-de-Escritorio
 IMPORTANTE:
 para correr el archivo o modificar su contenido, tenes que tener instalado un editor de codigo [ej: Visual Studio Code]
+en caso de no tener uno, entra a "Releases"
 
 Esto es un archivo de python que utiliza varias imagenes para representar una "mascota" en tu escritorio.
 El repositorio ya tiene imagenes por defecto por si alguien desea usarlas, pero si queres usar tus propias imagenes, hay que cambiar el codigo y te voy a enseñar a como hacerlo.
